@@ -1,7 +1,11 @@
 <div style="background-color:#0d1117;padding:20px;border-radius:10px">
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=C%3A%5CUSERS%5CPRATEEK%3E+INITIALIZING...;C%3A%5CUSERS%5CPRATEEK%3E+LOADING+PROFILE.EXE;C%3A%5CUSERS%5CPRATEEK%3E+FULL+STACK+DEVELOPER;C%3A%5CUSERS%5CPRATEEK%3E+READY+FOR+OPPORTUNITIES;C%3A%5CUSERS%5CPRATEEK%3E+TURNING+COFFEE+INTO+CODE" alt="Terminal Typing" />
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I'm Prateek Gupta
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Prateek+Gupta;Full+Stack+Developer;Building+Amazing+Web+Experiences;AI+%26+Web+Development+Enthusiast" alt="Typing SVG" />
@@ -158,6 +162,23 @@ const prateek = {
 ---
 
 <img src="https://komarev.com/ghpvc/?username=PraTEEkgUpTa2&style=for-the-badge&color=blue" alt="Profile Views" />
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗  │
+│  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║  │
+│     ██║   ███████║███████║██╔██╗ ██║█████╔╝      ╚████╔╝ ██║   ██║██║   ██║  │
+│     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║  │
+│     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝  │
+│     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝   │
+│                                                                     │
+│              FOR VISITING MY TERMINAL PORTFOLIO v2.0                │
+│                                                                     │
+│     🚀 Let's build something amazing together! 🚀                   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 </div>
